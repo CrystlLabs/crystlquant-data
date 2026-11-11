@@ -1,0 +1,784 @@
+date,sport,country,league,home,away,model_pick,model_chance,result
+2026-08-24,Football (soccer),England,Premier League,Fulham,Chelsea,Fulham,36.7,Chelsea
+2026-08-24,Football (soccer),Italy,Serie A,Bologna,Lazio,Bologna,41.0,Lazio
+2026-08-24,Football (soccer),Italy,Serie A,Roma,Fiorentina,Roma,54.1,Roma
+2026-08-24,Football (soccer),Spain,La Liga,Málaga,Deportivo La Coruña,Málaga,41.8,Draw
+2026-08-24,Football (soccer),Spain,La Liga,Osasuna,Levante,Osasuna,43.0,Draw
+2026-08-25,Football (soccer),Spain,La Liga,Valencia,Real Betis,Real Betis,37.6,Real Betis
+2026-08-26,Football (soccer),Spain,La Liga,Real Madrid,Real Sociedad,Real Madrid,68.0,Real Madrid
+2026-08-27,Football (soccer),Spain,La Liga,Barcelona,Athletic Bilbao,Barcelona,69.8,Barcelona
+2026-08-27,Football (soccer),Spain,La Liga,Celta Vigo,Osasuna,Celta Vigo,47.5,Osasuna
+2026-08-28,Football (soccer),England,Premier League,Crystal Palace,Manchester City,Manchester City,55.3,Manchester City
+2026-08-28,Football (soccer),France,Ligue 1,Lille,Paris Saint-Germain,Paris Saint-Germain,44.9,Draw
+2026-08-28,Football (soccer),Germany,Bundesliga,Bayern Munich,Stuttgart,Bayern Munich,72.9,Bayern Munich
+2026-08-28,Football (soccer),Italy,Serie A,Milan,Venezia,Milan,54.2,Milan
+2026-08-28,Football (soccer),Spain,La Liga,Alavés,Villarreal,Villarreal,47.0,Alavés
+2026-08-28,Football (soccer),Spain,La Liga,Racing Santander,Elche,Racing Santander,46.6,Racing Santander
+2026-08-29,Football (soccer),England,Premier League,Bournemouth,Everton,Bournemouth,46.0,Draw
+2026-08-29,Football (soccer),England,Premier League,Coventry,Hull,Coventry,57.8,Hull
+2026-08-29,Football (soccer),England,Premier League,Liverpool,Nottingham Forest,Liverpool,58.3,Draw
+2026-08-29,Football (soccer),England,Premier League,Tottenham,Newcastle,Tottenham,38.1,Newcastle
+2026-08-29,Football (soccer),France,Ligue 1,Auxerre,Angers,Auxerre,50.1,Angers
+2026-08-29,Football (soccer),France,Ligue 1,Brest,Toulouse,Brest,39.3,Draw
+2026-08-29,Football (soccer),France,Ligue 1,Lorient,Troyes,Lorient,48.7,Troyes
+2026-08-29,Football (soccer),France,Ligue 1,Lyon,Le Havre,Lyon,60.5,Draw
+2026-08-29,Football (soccer),France,Ligue 1,Strasbourg,Lens,Lens,37.8,Strasbourg
+2026-08-29,Football (soccer),Germany,Bundesliga,Borussia Dortmund,Hamburg,Borussia Dortmund,65.2,Borussia Dortmund
+2026-08-29,Football (soccer),Germany,Bundesliga,Elversberg,Bayer Leverkusen,Bayer Leverkusen,47.7,Elversberg
+2026-08-29,Football (soccer),Germany,Bundesliga,1. FC Köln,Hoffenheim,Hoffenheim,38.4,1. FC Köln
+2026-08-29,Football (soccer),Germany,Bundesliga,Mainz,Paderborn,Mainz,49.7,Draw
+2026-08-29,Football (soccer),Germany,Bundesliga,RB Leipzig,Borussia Mönchengladbach,RB Leipzig,58.7,RB Leipzig
+2026-08-29,Football (soccer),Germany,Bundesliga,Union Berlin,Eintracht Frankfurt,Eintracht Frankfurt,39.7,Draw
+2026-08-29,Football (soccer),Italy,Serie A,Fiorentina,Frosinone,Fiorentina,48.4,Frosinone
+2026-08-29,Football (soccer),Italy,Serie A,Juventus,Parma,Juventus,61.3,Juventus
+2026-08-29,Football (soccer),Italy,Serie A,Monza,Udinese,Monza,38.7,Udinese
+2026-08-29,Football (soccer),Italy,Serie A,Sassuolo,Torino,Sassuolo,46.2,Sassuolo
+2026-08-29,Football (soccer),Spain,La Liga,Levante,Real Betis,Real Betis,39.1,Levante
+2026-08-29,Football (soccer),Spain,La Liga,Sevilla,Atlético Madrid,Atlético Madrid,48.6,Atlético Madrid
+2026-08-29,Football (soccer),Spain,La Liga,Real Sociedad,Espanyol,Real Sociedad,47.9,Real Sociedad
+2026-08-30,Football (soccer),England,Premier League,Chelsea,Brighton,Chelsea,46.4,Chelsea
+2026-08-30,Football (soccer),England,Premier League,Leeds,Brentford,Leeds,42.4,Draw
+2026-08-30,Football (soccer),England,Premier League,Manchester United,Ipswich,Manchester United,59.1,Manchester United
+2026-08-30,Football (soccer),England,Premier League,Sunderland,Fulham,Fulham,35.5,Sunderland
+2026-08-30,Football (soccer),France,Ligue 1,Monaco,Marseille,Monaco,43.3,Monaco
+2026-08-30,Football (soccer),France,Ligue 1,Paris FC,Nice,Paris FC,41.4,Paris FC
+2026-08-30,Football (soccer),France,Ligue 1,Rennes,Le Mans,Rennes,50.2,Rennes
+2026-08-30,Football (soccer),Germany,Bundesliga,Augsburg,Schalke 04,Augsburg,43.8,Augsburg
+2026-08-30,Football (soccer),Germany,Bundesliga,Freiburg,Werder Bremen,Freiburg,48.8,Freiburg
+2026-08-30,Football (soccer),Italy,Serie A,Cagliari,Inter,Inter,65.1,Inter
+2026-08-30,Football (soccer),Italy,Serie A,Lazio,Genoa,Lazio,49.4,Lazio
+2026-08-30,Football (soccer),Italy,Serie A,Napoli,Como,Napoli,46.5,Como
+2026-08-30,Football (soccer),Spain,La Liga,Celta Vigo,Athletic Bilbao,Celta Vigo,42.5,Athletic Bilbao
+2026-08-30,Football (soccer),Spain,La Liga,Deportivo La Coruña,Valencia,Deportivo La Coruña,41.1,Deportivo La Coruña
+2026-08-30,Football (soccer),Spain,La Liga,Real Madrid,Málaga,Real Madrid,71.9,Real Madrid
+2026-08-31,Football (soccer),England,Premier League,Aston Villa,Arsenal,Arsenal,48.4,Arsenal
+2026-08-31,Football (soccer),Italy,Serie A,Atalanta,Bologna,Atalanta,52.8,Atalanta
+2026-08-31,Football (soccer),Italy,Serie A,Lecce,Roma,Roma,53.7,Roma
+2026-08-31,Football (soccer),Spain,La Liga,Barcelona,Rayo Vallecano,Barcelona,72.2,Barcelona
+2026-08-31,Football (soccer),Spain,La Liga,Osasuna,Getafe,Osasuna,39.6,Osasuna
+2026-09-03,Football (soccer),France,Ligue 1,Toulouse,Lille,Lille,38.0,Lille
+2026-09-03,Football (soccer),Spain,La Liga,Real Sociedad,Celta Vigo,Real Sociedad,41.5,Draw
+2026-09-04,Football (soccer),England,Premier League,Ipswich,Liverpool,Liverpool,53.7,Liverpool
+2026-09-04,Football (soccer),France,Ligue 1,Lyon,Auxerre,Lyon,53.6,Lyon
+2026-09-04,Football (soccer),France,Ligue 1,Paris Saint-Germain,Monaco,Paris Saint-Germain,66.5,Monaco
+2026-09-04,Football (soccer),Germany,Bundesliga,Stuttgart,1. FC Köln,Stuttgart,63.5,Stuttgart
+2026-09-04,Football (soccer),Italy,Serie A,Genoa,Como,Como,42.2,Como
+2026-09-04,Football (soccer),Spain,La Liga,Real Betis,Real Madrid,Real Madrid,48.2,Real Betis
+2026-09-05,Football (soccer),England,Premier League,Brentford,Sunderland,Brentford,52.6,Draw
+2026-09-05,Football (soccer),England,Premier League,Brighton,Leeds,Brighton,44.6,Draw
+2026-09-05,Football (soccer),England,Premier League,Fulham,Crystal Palace,Fulham,43.9,Crystal Palace
+2026-09-05,Football (soccer),England,Premier League,Hull,Aston Villa,Aston Villa,51.9,Draw
+2026-09-05,Football (soccer),England,Premier League,Manchester City,Coventry,Manchester City,71.8,Manchester City
+2026-09-05,Football (soccer),England,Premier League,Newcastle,Bournemouth,Newcastle,47.6,Draw
+2026-09-05,Football (soccer),England,Premier League,Nottingham Forest,Tottenham,Nottingham Forest,44.7,Draw
+2026-09-05,Football (soccer),France,Ligue 1,Le Havre,Brest,Le Havre,35.6,Brest
+2026-09-05,Football (soccer),France,Ligue 1,Lens,Lorient,Lens,56.7,Lorient
+2026-09-05,Football (soccer),France,Ligue 1,Nice,Le Mans,Nice,41.5,Draw
+2026-09-05,Football (soccer),Germany,Bundesliga,Hoffenheim,Borussia Dortmund,Borussia Dortmund,49.0,Borussia Dortmund
+2026-09-05,Football (soccer),Germany,Bundesliga,Bayer Leverkusen,Union Berlin,Bayer Leverkusen,66.3,Bayer Leverkusen
+2026-09-05,Football (soccer),Germany,Bundesliga,Borussia Mönchengladbach,Elversberg,Borussia Mönchengladbach,42.3,Elversberg
+2026-09-05,Football (soccer),Germany,Bundesliga,Paderborn,Freiburg,Paderborn,39.5,Freiburg
+2026-09-05,Football (soccer),Germany,Bundesliga,Schalke 04,Bayern Munich,Bayern Munich,75.0,Draw
+2026-09-05,Football (soccer),Germany,Bundesliga,Werder Bremen,RB Leipzig,RB Leipzig,47.7,Werder Bremen
+2026-09-05,Football (soccer),Italy,Serie A,Fiorentina,Torino,Fiorentina,50.1,Torino
+2026-09-05,Football (soccer),Italy,Serie A,Inter,Napoli,Inter,54.5,Inter
+2026-09-05,Football (soccer),Italy,Serie A,Roma,Atalanta,Roma,43.1,Roma
+2026-09-05,Football (soccer),Spain,La Liga,Athletic Bilbao,Atlético Madrid,Atlético Madrid,41.1,Athletic Bilbao
+2026-09-05,Football (soccer),Spain,La Liga,Rayo Vallecano,Racing Santander,Rayo Vallecano,42.2,Rayo Vallecano
+2026-09-05,Football (soccer),Spain,La Liga,Villarreal,Deportivo La Coruña,Villarreal,60.1,Deportivo La Coruña
+2026-09-06,Football (soccer),England,Premier League,Arsenal,Chelsea,Arsenal,61.3,Arsenal
+2026-09-06,Football (soccer),England,Premier League,Everton,Manchester United,Manchester United,36.8,Draw
+2026-09-06,Football (soccer),France,Ligue 1,Angers,Rennes,Rennes,47.6,Rennes
+2026-09-06,Football (soccer),France,Ligue 1,Marseille,Paris FC,Marseille,56.7,Paris FC
+2026-09-06,Football (soccer),France,Ligue 1,Troyes,Strasbourg,Strasbourg,39.8,Strasbourg
+2026-09-06,Football (soccer),Germany,Bundesliga,Eintracht Frankfurt,Augsburg,Eintracht Frankfurt,55.5,Augsburg
+2026-09-06,Football (soccer),Germany,Bundesliga,Hamburg,Mainz,Hamburg,42.2,Mainz
+2026-09-06,Football (soccer),Italy,Serie A,Bologna,Sassuolo,Bologna,50.0,Draw
+2026-09-06,Football (soccer),Italy,Serie A,Frosinone,Venezia,Frosinone,39.7,Frosinone
+2026-09-06,Football (soccer),Italy,Serie A,Juventus,Milan,Juventus,45.4,Draw
+2026-09-06,Football (soccer),Italy,Serie A,Parma,Monza,Parma,39.7,Draw
+2026-09-06,Football (soccer),Spain,La Liga,Alavés,Osasuna,Alavés,38.3,Alavés
+2026-09-06,Football (soccer),Spain,La Liga,Espanyol,Sevilla,Espanyol,41.6,Draw
+2026-09-06,Football (soccer),Spain,La Liga,Málaga,Levante,Málaga,42.3,Draw
+2026-09-06,Football (soccer),Spain,La Liga,Valencia,Barcelona,Barcelona,61.2,Barcelona
+2026-09-07,Football (soccer),Italy,Serie A,Cagliari,Lecce,Cagliari,45.3,Cagliari
+2026-09-07,Football (soccer),Italy,Serie A,Udinese,Lazio,Lazio,36.5,Lazio
+2026-09-07,Football (soccer),Spain,La Liga,Elche,Real Sociedad,Elche,38.1,Real Sociedad
+2026-09-07,Football (soccer),Spain,La Liga,Getafe,Celta Vigo,Getafe,34.1,Draw
+2026-09-11,Football (soccer),France,Ligue 1,Rennes,Marseille,Rennes,40.7,Rennes
+2026-09-11,Football (soccer),Germany,Bundesliga,Union Berlin,Schalke 04,Union Berlin,44.0,Schalke 04
+2026-09-11,Football (soccer),Italy,Serie A,Venezia,Fiorentina,Venezia,40.5,Fiorentina
+2026-09-11,Football (soccer),Spain,La Liga,Sevilla,Valencia,Sevilla,40.0,Sevilla
+2026-09-12,Football (soccer),England,Premier League,Aston Villa,Nottingham Forest,Aston Villa,47.8,Nottingham Forest
+2026-09-12,Football (soccer),England,Premier League,Bournemouth,Brentford,Bournemouth,43.0,Draw
+2026-09-12,Football (soccer),England,Premier League,Chelsea,Hull,Chelsea,66.8,Draw
+2026-09-12,Football (soccer),England,Premier League,Crystal Palace,Ipswich,Crystal Palace,48.2,Ipswich
+2026-09-12,Football (soccer),England,Premier League,Liverpool,Fulham,Liverpool,58.9,Draw
+2026-09-12,Football (soccer),England,Premier League,Sunderland,Arsenal,Arsenal,57.7,Arsenal
+2026-09-12,Football (soccer),England,Premier League,Tottenham,Everton,Tottenham,43.8,Draw
+2026-09-12,Football (soccer),France,Ligue 1,Auxerre,Nice,Auxerre,40.8,Auxerre
+2026-09-12,Football (soccer),France,Ligue 1,Le Havre,Angers,Le Havre,42.5,Draw
+2026-09-12,Football (soccer),France,Ligue 1,Lorient,Toulouse,Lorient,42.3,Draw
+2026-09-12,Football (soccer),France,Ligue 1,Paris FC,Lyon,Lyon,39.8,Draw
+2026-09-12,Football (soccer),France,Ligue 1,Strasbourg,Monaco,Strasbourg,41.7,Draw
+2026-09-12,Football (soccer),Germany,Bundesliga,Augsburg,Bayer Leverkusen,Bayer Leverkusen,53.5,Draw
+2026-09-12,Football (soccer),Germany,Bundesliga,Borussia Dortmund,Paderborn,Borussia Dortmund,70.3,Borussia Dortmund
+2026-09-12,Football (soccer),Germany,Bundesliga,1. FC Köln,Werder Bremen,1. FC Köln,42.9,Draw
+2026-09-12,Football (soccer),Germany,Bundesliga,Freiburg,Borussia Mönchengladbach,Freiburg,45.0,Freiburg
+2026-09-12,Football (soccer),Germany,Bundesliga,Hoffenheim,Stuttgart,Stuttgart,41.2,Hoffenheim
+2026-09-12,Football (soccer),Germany,Bundesliga,Mainz,Eintracht Frankfurt,Mainz,40.9,Eintracht Frankfurt
+2026-09-12,Football (soccer),Italy,Serie A,Atalanta,Cagliari,Atalanta,64.4,Cagliari
+2026-09-12,Football (soccer),Italy,Serie A,Genoa,Frosinone,Genoa,40.3,Draw
+2026-09-12,Football (soccer),Italy,Serie A,Lazio,Milan,Lazio,35.4,Draw
+2026-09-12,Football (soccer),Spain,La Liga,Athletic Bilbao,Elche,Athletic Bilbao,47.4,Draw
+2026-09-12,Football (soccer),Spain,La Liga,Osasuna,Espanyol,Osasuna,43.7,Espanyol
+2026-09-12,Football (soccer),Spain,La Liga,Real Madrid,Rayo Vallecano,Real Madrid,66.9,Real Madrid
+2026-09-12,Football (soccer),Spain,La Liga,Racing Santander,Alavés,Racing Santander,47.7,Racing Santander
+2026-09-13,Football (soccer),England,Premier League,Coventry,Brighton,Coventry,37.1,Brighton
+2026-09-13,Football (soccer),England,Premier League,Manchester United,Manchester City,Manchester City,48.1,Manchester City
+2026-09-13,Football (soccer),France,Ligue 1,Brest,Paris Saint-Germain,Paris Saint-Germain,61.5,Paris Saint-Germain
+2026-09-13,Football (soccer),France,Ligue 1,Le Mans,Lens,Lens,41.4,Draw
+2026-09-13,Football (soccer),France,Ligue 1,Lille,Troyes,Lille,56.9,Lille
+2026-09-13,Football (soccer),Germany,Bundesliga,Elversberg,Bayern Munich,Bayern Munich,68.5,Bayern Munich
+2026-09-13,Football (soccer),Germany,Bundesliga,RB Leipzig,Hamburg,RB Leipzig,57.6,RB Leipzig
+2026-09-13,Football (soccer),Italy,Serie A,Lecce,Monza,Monza,34.5,Lecce
+2026-09-13,Football (soccer),Italy,Serie A,Napoli,Bologna,Napoli,52.8,Napoli
+2026-09-13,Football (soccer),Italy,Serie A,Sassuolo,Juventus,Juventus,46.6,Sassuolo
+2026-09-13,Football (soccer),Spain,La Liga,Celta Vigo,Málaga,Celta Vigo,49.7,Draw
+2026-09-13,Football (soccer),Spain,La Liga,Getafe,Deportivo La Coruña,Getafe,38.1,Draw
+2026-09-13,Football (soccer),Spain,La Liga,Levante,Barcelona,Barcelona,63.2,Barcelona
+2026-09-13,Football (soccer),Spain,La Liga,Real Sociedad,Atlético Madrid,Atlético Madrid,43.9,Atlético Madrid
+2026-09-14,Football (soccer),England,Premier League,Leeds,Newcastle,Leeds,40.3,Leeds
+2026-09-14,Football (soccer),Italy,Serie A,Como,Parma,Como,57.4,Como
+2026-09-14,Football (soccer),Italy,Serie A,Inter,Udinese,Inter,73.5,Inter
+2026-09-14,Football (soccer),Italy,Serie A,Torino,Roma,Roma,48.5,Roma
+2026-09-14,Football (soccer),Portugal,Primeira Liga,Moreirense,Maritimo,Moreirense,37.4,Moreirense
+2026-09-14,Football (soccer),Portugal,Primeira Liga,Rio Ave,Estrela,Rio Ave,38.5,Draw
+2026-09-14,Football (soccer),Portugal,Primeira Liga,Sp Braga,Estoril,Sp Braga,66.3,Sp Braga
+2026-09-14,Football (soccer),Spain,La Liga,Villarreal,Real Betis,Villarreal,50.9,Real Betis
+2026-09-15,Football (soccer),England,Championship,Bristol City,Lincoln,Lincoln,43.1,Lincoln
+2026-09-15,Football (soccer),England,Championship,Middlesbrough,Millwall,Middlesbrough,50.4,Draw
+2026-09-15,Football (soccer),Netherlands,Eredivisie,Ajax,Willem II,Ajax,81.5,Ajax
+2026-09-15,Football (soccer),Spain,La Liga,Alavés,Valencia,Alavés,38.2,Valencia
+2026-09-15,Football (soccer),Spain,La Liga,Elche,Real Madrid,Real Madrid,57.5,Real Madrid
+2026-09-15,Football (soccer),Spain,La Liga,Rayo Vallecano,Espanyol,Rayo Vallecano,42.4,Rayo Vallecano
+2026-09-16,Football (soccer),Spain,La Liga,Atlético Madrid,Osasuna,Atlético Madrid,59.7,Atlético Madrid
+2026-09-16,Football (soccer),Spain,La Liga,Barcelona,Racing Santander,Barcelona,78.6,Barcelona
+2026-09-16,Football (soccer),Spain,La Liga,Deportivo La Coruña,Sevilla,Deportivo La Coruña,43.6,Sevilla
+2026-09-17,Football (soccer),Spain,La Liga,Real Betis,Getafe,Real Betis,48.6,Real Betis
+2026-09-17,Football (soccer),Spain,La Liga,Málaga,Villarreal,Villarreal,46.4,Villarreal
+2026-09-18,Football (soccer),England,Championship,Bristol City,Watford,Bristol City,54.8,Bristol City
+2026-09-18,Football (soccer),England,Premier League,Brentford,Chelsea,Brentford,40.8,Brentford
+2026-09-18,Football (soccer),France,Ligue 1,Monaco,Lens,Monaco,39.2,Monaco
+2026-09-18,Football (soccer),Germany,Bundesliga,Bayern Munich,Union Berlin,Bayern Munich,84.1,Bayern Munich
+2026-09-18,Football (soccer),Italy,Serie A,Monza,Sassuolo,Monza,38.7,Monza
+2026-09-18,Football (soccer),Netherlands,Eredivisie,Groningen,Zwolle,Groningen,63.0,Groningen
+2026-09-18,Football (soccer),Spain,La Liga,Espanyol,Elche,Espanyol,40.7,Elche
+2026-09-19,Football (soccer),England,Championship,Birmingham,Middlesbrough,Middlesbrough,39.7,Draw
+2026-09-19,Football (soccer),England,Championship,Burnley,Derby,Burnley,43.4,Draw
+2026-09-19,Football (soccer),England,Championship,Cardiff,Charlton,Cardiff,52.7,Cardiff
+2026-09-19,Football (soccer),England,Championship,Lincoln,Swansea,Lincoln,54.5,Swansea
+2026-09-19,Football (soccer),England,Championship,Millwall,West Ham,Millwall,46.2,Draw
+2026-09-19,Football (soccer),England,Championship,Portsmouth,Blackburn,Portsmouth,43.7,Draw
+2026-09-19,Football (soccer),England,Championship,QPR,Preston,QPR,53.1,Draw
+2026-09-19,Football (soccer),England,Championship,Stoke,Sheffield United,Sheffield United,38.9,Stoke
+2026-09-19,Football (soccer),England,Championship,Wrexham,Southampton,Southampton,50.4,Wrexham
+2026-09-19,Football (soccer),England,Premier League,Brighton,Arsenal,Arsenal,49.8,Brighton
+2026-09-19,Football (soccer),England,Premier League,Everton,Ipswich,Everton,47.7,Everton
+2026-09-19,Football (soccer),England,Premier League,Newcastle,Hull,Newcastle,67.0,Newcastle
+2026-09-19,Football (soccer),England,Premier League,Nottingham Forest,Coventry,Nottingham Forest,46.5,Coventry
+2026-09-19,Football (soccer),England,Premier League,Tottenham,Aston Villa,Tottenham,38.1,Aston Villa
+2026-09-19,Football (soccer),France,Ligue 1,Angers,Troyes,Troyes,34.8,Angers
+2026-09-19,Football (soccer),France,Ligue 1,Le Mans,Lorient,Le Mans,41.6,Le Mans
+2026-09-19,Football (soccer),France,Ligue 1,Lyon,Rennes,Lyon,47.4,Lyon
+2026-09-19,Football (soccer),France,Ligue 1,Paris FC,Strasbourg,Paris FC,36.7,Paris FC
+2026-09-19,Football (soccer),France,Ligue 1,Toulouse,Le Havre,Toulouse,51.2,Toulouse
+2026-09-19,Football (soccer),Germany,Bundesliga,Eintracht Frankfurt,Freiburg,Eintracht Frankfurt,49.9,Draw
+2026-09-19,Football (soccer),Germany,Bundesliga,Hamburg,1. FC Köln,Hamburg,49.8,Hamburg
+2026-09-19,Football (soccer),Germany,Bundesliga,Borussia Mönchengladbach,Mainz,Borussia Mönchengladbach,40.6,Mainz
+2026-09-19,Football (soccer),Germany,Bundesliga,Stuttgart,Borussia Dortmund,Borussia Dortmund,38.3,Borussia Dortmund
+2026-09-19,Football (soccer),Germany,Bundesliga,Werder Bremen,Augsburg,Werder Bremen,43.3,Werder Bremen
+2026-09-19,Football (soccer),Italy,Serie A,Bologna,Torino,Bologna,51.6,Draw
+2026-09-19,Football (soccer),Italy,Serie A,Roma,Inter,Inter,40.5,Draw
+2026-09-19,Football (soccer),Italy,Serie A,Udinese,Cagliari,Udinese,45.7,Cagliari
+2026-09-19,Football (soccer),Italy,Serie A,Venezia,Lazio,Venezia,38.1,Lazio
+2026-09-19,Football (soccer),Netherlands,Eredivisie,Ajax,Excelsior,Ajax,70.7,Draw
+2026-09-19,Football (soccer),Netherlands,Eredivisie,Den Haag,Cambuur,Den Haag,52.9,Draw
+2026-09-19,Football (soccer),Netherlands,Eredivisie,Sparta Rotterdam,Heerenveen,Heerenveen,40.4,Heerenveen
+2026-09-19,Football (soccer),Netherlands,Eredivisie,Willem II,For Sittard,For Sittard,42.4,For Sittard
+2026-09-19,Football (soccer),Portugal,Primeira Liga,Alverca,Rio Ave,Alverca,49.8,Alverca
+2026-09-19,Football (soccer),Portugal,Primeira Liga,Gil Vicente,Maritimo,Gil Vicente,48.8,Draw
+2026-09-19,Football (soccer),Portugal,Primeira Liga,Nacional,Famalicao,Famalicao,37.2,Famalicao
+2026-09-19,Football (soccer),Portugal,Primeira Liga,Sp Lisbon,Arouca,Sp Lisbon,76.8,Draw
+2026-09-19,Football (soccer),Spain,La Liga,Athletic Bilbao,Alavés,Athletic Bilbao,48.1,Draw
+2026-09-19,Football (soccer),Spain,La Liga,Celta Vigo,Racing Santander,Celta Vigo,49.7,Celta Vigo
+2026-09-19,Football (soccer),Spain,La Liga,Osasuna,Rayo Vallecano,Osasuna,40.1,Draw
+2026-09-19,Football (soccer),Spain,La Liga,Sevilla,Barcelona,Barcelona,63.9,Barcelona
+2026-09-20,Football (soccer),England,Championship,Norwich,Bolton,Norwich,52.2,Bolton
+2026-09-20,Football (soccer),England,Championship,Wolves,West Brom,Wolves,38.6,Wolves
+2026-09-20,Football (soccer),England,Premier League,Bournemouth,Liverpool,Liverpool,42.2,Liverpool
+2026-09-20,Football (soccer),England,Premier League,Fulham,Manchester United,Fulham,36.7,Draw
+2026-09-20,Football (soccer),England,Premier League,Leeds,Crystal Palace,Leeds,46.6,Draw
+2026-09-20,Football (soccer),England,Premier League,Manchester City,Sunderland,Manchester City,71.6,Manchester City
+2026-09-20,Football (soccer),France,Ligue 1,Auxerre,Brest,Auxerre,43.4,Auxerre
+2026-09-20,Football (soccer),France,Ligue 1,Marseille,Paris Saint-Germain,Paris Saint-Germain,48.0,Paris Saint-Germain
+2026-09-20,Football (soccer),France,Ligue 1,Nice,Lille,Lille,39.8,Nice
+2026-09-20,Football (soccer),Germany,Bundesliga,Bayer Leverkusen,RB Leipzig,Bayer Leverkusen,50.2,Bayer Leverkusen
+2026-09-20,Football (soccer),Germany,Bundesliga,Paderborn,Hoffenheim,Paderborn,38.0,Paderborn
+2026-09-20,Football (soccer),Germany,Bundesliga,Schalke 04,Elversberg,Elversberg,37.2,Draw
+2026-09-20,Football (soccer),Italy,Serie A,Fiorentina,Napoli,Napoli,40.7,Draw
+2026-09-20,Football (soccer),Italy,Serie A,Frosinone,Como,Como,42.0,Frosinone
+2026-09-20,Football (soccer),Italy,Serie A,Juventus,Atalanta,Juventus,43.0,Juventus
+2026-09-20,Football (soccer),Italy,Serie A,Milan,Lecce,Milan,63.6,Milan
+2026-09-20,Football (soccer),Italy,Serie A,Parma,Genoa,Parma,37.3,Parma
+2026-09-20,Football (soccer),Netherlands,Eredivisie,AZ Alkmaar,Telstar,AZ Alkmaar,75.6,AZ Alkmaar
+2026-09-20,Football (soccer),Netherlands,Eredivisie,Feyenoord,Utrecht,Feyenoord,68.4,Feyenoord
+2026-09-20,Football (soccer),Netherlands,Eredivisie,Nijmegen,Go Ahead Eagles,Nijmegen,46.7,Draw
+2026-09-20,Football (soccer),Netherlands,Eredivisie,Twente,PSV Eindhoven,PSV Eindhoven,51.1,Twente
+2026-09-20,Football (soccer),Portugal,Primeira Liga,Estoril,Casa Pia,Estoril,57.1,Casa Pia
+2026-09-20,Football (soccer),Portugal,Primeira Liga,Estrela,Academico Viseu,Estrela,47.1,Academico Viseu
+2026-09-20,Football (soccer),Portugal,Primeira Liga,Guimaraes,Moreirense,Guimaraes,52.7,Draw
+2026-09-20,Football (soccer),Portugal,Primeira Liga,Porto,Benfica,Porto,41.7,Porto
+2026-09-20,Football (soccer),Portugal,Primeira Liga,Santa Clara,Sp Braga,Sp Braga,36.9,Draw
+2026-09-20,Football (soccer),Spain,La Liga,Atlético Madrid,Real Madrid,Real Madrid,38.8,Atlético Madrid
+2026-09-20,Football (soccer),Spain,La Liga,Getafe,Málaga,Getafe,39.1,Getafe
+2026-09-20,Football (soccer),Spain,La Liga,Deportivo La Coruña,Real Betis,Real Betis,38.4,Draw
+2026-09-20,Football (soccer),Spain,La Liga,Valencia,Real Sociedad,Valencia,39.6,Real Sociedad
+2026-09-20,Football (soccer),Spain,La Liga,Villarreal,Levante,Villarreal,60.9,Villarreal
+2026-10-09,Football (soccer),England,Championship,West Ham,QPR,West Ham,55.8,Draw
+2026-10-09,Football (soccer),France,Ligue 1,Lens,Lyon,Lens,51.7,Lens
+2026-10-09,Football (soccer),Germany,Bundesliga,Borussia Dortmund,Werder Bremen,Borussia Dortmund,69.1,Draw
+2026-10-09,Football (soccer),Netherlands,Eredivisie,PSV Eindhoven,Heerenveen,PSV Eindhoven,70.1,PSV Eindhoven
+2026-10-09,Football (soccer),Portugal,Primeira Liga,Moreirense,Gil Vicente,Moreirense,36.3,Gil Vicente
+2026-10-09,Football (soccer),Portugal,Primeira Liga,Sp Braga,Sp Lisbon,Sp Lisbon,46.8,Sp Lisbon
+2026-10-09,Football (soccer),Spain,La Liga,Málaga,Espanyol,Málaga,38.0,Draw
+2026-10-10,Football (soccer),England,Championship,Blackburn,Cardiff,Cardiff,38.8,Blackburn
+2026-10-10,Football (soccer),England,Championship,Bolton,Stoke,Bolton,51.8,Stoke
+2026-10-10,Football (soccer),England,Championship,Charlton,Bristol City,Bristol City,37.6,Draw
+2026-10-10,Football (soccer),England,Championship,Derby,Wrexham,Wrexham,39.9,Draw
+2026-10-10,Football (soccer),England,Championship,Middlesbrough,Wolves,Middlesbrough,59.6,Middlesbrough
+2026-10-10,Football (soccer),England,Championship,Preston,Millwall,Millwall,50.6,Millwall
+2026-10-10,Football (soccer),England,Championship,Sheffield United,Lincoln,Lincoln,41.9,Sheffield United
+2026-10-10,Football (soccer),England,Championship,Swansea,Norwich,Swansea,51.7,Swansea
+2026-10-10,Football (soccer),England,Championship,Watford,Burnley,Watford,38.8,Burnley
+2026-10-10,Football (soccer),England,Championship,West Brom,Birmingham,West Brom,39.5,Birmingham
+2026-10-10,Football (soccer),England,Premier League,Arsenal,Leeds,Arsenal,65.3,Arsenal
+2026-10-10,Football (soccer),England,Premier League,Aston Villa,Brentford,Aston Villa,37.4,Draw
+2026-10-10,Football (soccer),England,Premier League,Chelsea,Bournemouth,Chelsea,40.8,Chelsea
+2026-10-10,Football (soccer),England,Premier League,Ipswich,Fulham,Fulham,44.1,Ipswich
+2026-10-10,Football (soccer),England,Premier League,Manchester United,Tottenham,Manchester United,64.0,Draw
+2026-10-10,Football (soccer),England,Premier League,Sunderland,Brighton,Brighton,48.9,Brighton
+2026-10-10,Football (soccer),France,Ligue 1,Brest,Angers,Brest,55.1,Brest
+2026-10-10,Football (soccer),France,Ligue 1,Lille,Le Havre,Lille,63.4,Lille
+2026-10-10,Football (soccer),France,Ligue 1,Lorient,Paris FC,Lorient,36.7,Lorient
+2026-10-10,Football (soccer),France,Ligue 1,Monaco,Toulouse,Monaco,49.0,Draw
+2026-10-10,Football (soccer),France,Ligue 1,Paris Saint-Germain,Le Mans,Paris Saint-Germain,82.7,Paris Saint-Germain
+2026-10-10,Football (soccer),Germany,Bundesliga,Augsburg,Bayern Munich,Bayern Munich,73.0,Draw
+2026-10-10,Football (soccer),Germany,Bundesliga,Hoffenheim,Hamburg,Hoffenheim,65.1,Hamburg
+2026-10-10,Football (soccer),Germany,Bundesliga,Mainz,Bayer Leverkusen,Bayer Leverkusen,45.9,Bayer Leverkusen
+2026-10-10,Football (soccer),Germany,Bundesliga,Paderborn,Stuttgart,Stuttgart,59.0,Stuttgart
+2026-10-10,Football (soccer),Germany,Bundesliga,RB Leipzig,Eintracht Frankfurt,RB Leipzig,61.1,RB Leipzig
+2026-10-10,Football (soccer),Germany,Bundesliga,Union Berlin,Elversberg,Union Berlin,44.3,Union Berlin
+2026-10-10,Football (soccer),Italy,Serie A,Genoa,Fiorentina,Genoa,39.4,Genoa
+2026-10-10,Football (soccer),Italy,Serie A,Inter,Parma,Inter,86.1,Inter
+2026-10-10,Football (soccer),Italy,Serie A,Napoli,Frosinone,Napoli,73.3,Napoli
+2026-10-10,Football (soccer),Netherlands,Eredivisie,Ajax,Nijmegen,Ajax,68.5,Draw
+2026-10-10,Football (soccer),Netherlands,Eredivisie,Feyenoord,AZ Alkmaar,Feyenoord,53.3,Feyenoord
+2026-10-10,Football (soccer),Netherlands,Eredivisie,For Sittard,Twente,Twente,53.9,Draw
+2026-10-10,Football (soccer),Netherlands,Eredivisie,Go Ahead Eagles,Sparta Rotterdam,Go Ahead Eagles,60.0,Draw
+2026-10-10,Football (soccer),Portugal,Primeira Liga,Academico Viseu,Estoril,Academico Viseu,44.4,Academico Viseu
+2026-10-10,Football (soccer),Portugal,Primeira Liga,Casa Pia,Santa Clara,Santa Clara,52.1,Santa Clara
+2026-10-10,Football (soccer),Portugal,Primeira Liga,Maritimo,Porto,Porto,65.0,Porto
+2026-10-10,Football (soccer),Spain,La Liga,Alavés,Atlético Madrid,Atlético Madrid,40.0,Atlético Madrid
+2026-10-10,Football (soccer),Spain,La Liga,Barcelona,Getafe,Barcelona,82.9,Barcelona
+2026-10-10,Football (soccer),Spain,La Liga,Real Madrid,Villarreal,Real Madrid,60.3,Real Madrid
+2026-10-11,Football (soccer),England,Championship,Southampton,Portsmouth,Southampton,66.0,Southampton
+2026-10-11,Football (soccer),England,Premier League,Crystal Palace,Nottingham Forest,Crystal Palace,39.9,Crystal Palace
+2026-10-11,Football (soccer),England,Premier League,Hull,Everton,Everton,53.7,Draw
+2026-10-11,Football (soccer),England,Premier League,Liverpool,Manchester City,Manchester City,44.4,Manchester City
+2026-10-11,Football (soccer),France,Ligue 1,Nice,Strasbourg,Strasbourg,42.1,Nice
+2026-10-11,Football (soccer),France,Ligue 1,Rennes,Auxerre,Rennes,57.1,Rennes
+2026-10-11,Football (soccer),France,Ligue 1,Troyes,Marseille,Marseille,56.0,Marseille
+2026-10-11,Football (soccer),Germany,Bundesliga,1. FC Köln,Borussia Mönchengladbach,1. FC Köln,49.2,1. FC Köln
+2026-10-11,Football (soccer),Germany,Bundesliga,Freiburg,Schalke 04,Freiburg,62.8,Freiburg
+2026-10-11,Football (soccer),Italy,Serie A,Cagliari,Juventus,Juventus,57.9,Draw
+2026-10-11,Football (soccer),Italy,Serie A,Como,Roma,Como,37.7,Draw
+2026-10-11,Football (soccer),Italy,Serie A,Lazio,Monza,Lazio,58.9,Lazio
+2026-10-11,Football (soccer),Italy,Serie A,Lecce,Bologna,Bologna,50.4,Bologna
+2026-10-11,Football (soccer),Italy,Serie A,Sassuolo,Milan,Milan,49.4,Draw
+2026-10-11,Football (soccer),Netherlands,Eredivisie,Excelsior,Groningen,Excelsior,40.1,Groningen
+2026-10-11,Football (soccer),Netherlands,Eredivisie,Telstar,Den Haag,Telstar,47.5,Draw
+2026-10-11,Football (soccer),Netherlands,Eredivisie,Utrecht,Willem II,Utrecht,62.8,Utrecht
+2026-10-11,Football (soccer),Netherlands,Eredivisie,Zwolle,Cambuur,Zwolle,42.2,Cambuur
+2026-10-11,Football (soccer),Portugal,Primeira Liga,Arouca,Estrela,Arouca,58.8,Arouca
+2026-10-11,Football (soccer),Portugal,Primeira Liga,Benfica,Guimaraes,Benfica,81.8,Benfica
+2026-10-11,Football (soccer),Portugal,Primeira Liga,Rio Ave,Nacional,Rio Ave,41.8,Rio Ave
+2026-10-11,Football (soccer),Spain,La Liga,Real Betis,Osasuna,Real Betis,59.8,Real Betis
+2026-10-11,Football (soccer),Spain,La Liga,Elche,Celta Vigo,Elche,35.9,Draw
+2026-10-11,Football (soccer),Spain,La Liga,Racing Santander,Valencia,Racing Santander,49.7,Draw
+2026-10-11,Football (soccer),Spain,La Liga,Real Sociedad,Deportivo La Coruña,Real Sociedad,54.4,Real Sociedad
+2026-10-12,Football (soccer),England,Premier League,Coventry,Newcastle,Newcastle,43.5,Coventry
+2026-10-12,Football (soccer),Italy,Serie A,Atalanta,Venezia,Atalanta,64.0,Atalanta
+2026-10-12,Football (soccer),Italy,Serie A,Torino,Udinese,Torino,41.2,Torino
+2026-10-12,Football (soccer),Portugal,Primeira Liga,Famalicao,Alverca,Famalicao,55.9,Alverca
+2026-10-12,Football (soccer),Spain,La Liga,Levante,Sevilla,Levante,46.5,Draw
+2026-10-13,Football (soccer),England,Championship,Birmingham,Preston,Birmingham,58.1,Birmingham
+2026-10-13,Football (soccer),England,Championship,Bristol City,Blackburn,Bristol City,48.0,Blackburn
+2026-10-13,Football (soccer),England,Championship,Burnley,Charlton,Burnley,55.9,Draw
+2026-10-13,Football (soccer),England,Championship,Cardiff,Watford,Cardiff,63.8,Cardiff
+2026-10-13,Football (soccer),England,Championship,Millwall,Swansea,Millwall,47.4,Swansea
+2026-10-13,Football (soccer),England,Championship,Stoke,Middlesbrough,Middlesbrough,42.3,Middlesbrough
+2026-10-13,Football (soccer),England,Championship,Wolves,Bolton,Wolves,45.0,Bolton
+2026-10-13,Football (soccer),England,Championship,Wrexham,West Brom,Wrexham,45.8,West Brom
+2026-10-14,Football (soccer),England,Championship,Lincoln,West Ham,Lincoln,45.0,West Ham
+2026-10-14,Football (soccer),England,Championship,Norwich,Southampton,Southampton,48.0,Southampton
+2026-10-14,Football (soccer),England,Championship,Portsmouth,Sheffield United,Portsmouth,38.2,Portsmouth
+2026-10-14,Football (soccer),England,Championship,QPR,Derby,QPR,46.1,QPR
+2026-10-16,Football (soccer),England,Championship,Burnley,Wolves,Burnley,42.1,Wolves
+2026-10-16,Football (soccer),France,Ligue 1,Le Mans,Toulouse,Toulouse,48.0,Toulouse
+2026-10-16,Football (soccer),Germany,Bundesliga,Eintracht Frankfurt,1. FC Köln,Eintracht Frankfurt,47.6,Eintracht Frankfurt
+2026-10-16,Football (soccer),Italy,Serie A,Frosinone,Sassuolo,Sassuolo,45.2,Frosinone
+2026-10-16,Football (soccer),Netherlands,Eredivisie,Heerenveen,Excelsior,Heerenveen,53.8,Heerenveen
+2026-10-16,Football (soccer),Spain,La Liga,Deportivo La Coruña,Levante,Deportivo La Coruña,40.3,Draw
+2026-10-17,Football (soccer),England,Championship,Birmingham,QPR,Birmingham,49.9,Birmingham
+2026-10-17,Football (soccer),England,Championship,Bristol City,Sheffield United,Bristol City,39.6,Sheffield United
+2026-10-17,Football (soccer),England,Championship,Derby,Stoke,Derby,43.8,Stoke
+2026-10-17,Football (soccer),England,Championship,Middlesbrough,Cardiff,Middlesbrough,54.6,Draw
+2026-10-17,Football (soccer),England,Championship,Millwall,Lincoln,Millwall,47.7,Draw
+2026-10-17,Football (soccer),England,Championship,Norwich,Portsmouth,Norwich,45.1,Portsmouth
+2026-10-17,Football (soccer),England,Championship,Southampton,Bolton,Southampton,61.8,Draw
+2026-10-17,Football (soccer),England,Championship,Swansea,West Ham,Swansea,38.8,West Ham
+2026-10-17,Football (soccer),England,Championship,Watford,Charlton,Charlton,39.4,Watford
+2026-10-17,Football (soccer),England,Championship,West Brom,Blackburn,West Brom,43.9,West Brom
+2026-10-17,Football (soccer),England,Championship,Wrexham,Preston,Wrexham,59.5,Wrexham
+2026-10-17,Football (soccer),England,Premier League,Brentford,Liverpool,Brentford,41.9,Liverpool
+2026-10-17,Football (soccer),England,Premier League,Everton,Chelsea,Everton,39.6,Chelsea
+2026-10-17,Football (soccer),England,Premier League,Fulham,Hull,Fulham,69.0,Fulham
+2026-10-17,Football (soccer),England,Premier League,Manchester City,Ipswich,Manchester City,85.5,Manchester City
+2026-10-17,Football (soccer),England,Premier League,Newcastle,Aston Villa,Newcastle,50.3,Aston Villa
+2026-10-17,Football (soccer),France,Ligue 1,Lille,Brest,Lille,52.7,Draw
+2026-10-17,Football (soccer),France,Ligue 1,Strasbourg,Paris Saint-Germain,Paris Saint-Germain,60.7,Paris Saint-Germain
+2026-10-17,Football (soccer),France,Ligue 1,Troyes,Lens,Lens,63.8,Lens
+2026-10-17,Football (soccer),Germany,Bundesliga,Bayern Munich,RB Leipzig,Bayern Munich,74.8,Bayern Munich
+2026-10-17,Football (soccer),Germany,Bundesliga,Elversberg,Augsburg,Augsburg,41.0,Elversberg
+2026-10-17,Football (soccer),Germany,Bundesliga,Hamburg,Stuttgart,Stuttgart,51.8,Hamburg
+2026-10-17,Football (soccer),Germany,Bundesliga,Schalke 04,Mainz,Mainz,54.7,Mainz
+2026-10-17,Football (soccer),Germany,Bundesliga,Union Berlin,Borussia Dortmund,Borussia Dortmund,59.3,Draw
+2026-10-17,Football (soccer),Germany,Bundesliga,Werder Bremen,Paderborn,Werder Bremen,51.9,Draw
+2026-10-17,Football (soccer),Italy,Serie A,Bologna,Inter,Inter,57.7,Inter
+2026-10-17,Football (soccer),Italy,Serie A,Roma,Genoa,Roma,75.3,Roma
+2026-10-17,Football (soccer),Italy,Serie A,Venezia,Napoli,Napoli,62.3,Venezia
+2026-10-17,Football (soccer),Netherlands,Eredivisie,Den Haag,PSV Eindhoven,PSV Eindhoven,80.1,Den Haag
+2026-10-17,Football (soccer),Netherlands,Eredivisie,Sparta Rotterdam,Willem II,Sparta Rotterdam,52.1,Sparta Rotterdam
+2026-10-17,Football (soccer),Netherlands,Eredivisie,Telstar,Feyenoord,Feyenoord,65.0,Feyenoord
+2026-10-17,Football (soccer),Spain,La Liga,Real Betis,Barcelona,Barcelona,59.7,Barcelona
+2026-10-17,Football (soccer),Spain,La Liga,Espanyol,Atlético Madrid,Atlético Madrid,50.2,Atlético Madrid
+2026-10-17,Football (soccer),Spain,La Liga,Valencia,Athletic Bilbao,Athletic Bilbao,35.7,Draw
+2026-10-17,Football (soccer),Spain,La Liga,Villarreal,Elche,Villarreal,73.4,Draw
+2026-10-18,Football (soccer),England,Premier League,Bournemouth,Sunderland,Bournemouth,57.8,Bournemouth
+2026-10-18,Football (soccer),England,Premier League,Brighton,Crystal Palace,Brighton,61.5,Brighton
+2026-10-18,Football (soccer),England,Premier League,Leeds,Manchester United,Leeds,41.0,Draw
+2026-10-18,Football (soccer),England,Premier League,Nottingham Forest,Arsenal,Arsenal,54.4,Arsenal
+2026-10-18,Football (soccer),France,Ligue 1,Angers,Marseille,Marseille,54.6,Marseille
+2026-10-18,Football (soccer),France,Ligue 1,Le Havre,Auxerre,Le Havre,36.4,Auxerre
+2026-10-18,Football (soccer),France,Ligue 1,Lorient,Monaco,Monaco,40.1,Lorient
+2026-10-18,Football (soccer),France,Ligue 1,Lyon,Nice,Lyon,58.5,Lyon
+2026-10-18,Football (soccer),France,Ligue 1,Paris FC,Rennes,Paris FC,47.6,Paris FC
+2026-10-18,Football (soccer),Germany,Bundesliga,Bayer Leverkusen,Freiburg,Bayer Leverkusen,63.0,Bayer Leverkusen
+2026-10-18,Football (soccer),Germany,Bundesliga,Borussia Mönchengladbach,Hoffenheim,Hoffenheim,40.5,Hoffenheim
+2026-10-18,Football (soccer),Italy,Serie A,Fiorentina,Como,Como,51.7,Como
+2026-10-18,Football (soccer),Italy,Serie A,Juventus,Lazio,Juventus,61.4,Lazio
+2026-10-18,Football (soccer),Italy,Serie A,Milan,Atalanta,Milan,49.1,Milan
+2026-10-18,Football (soccer),Italy,Serie A,Udinese,Lecce,Udinese,54.7,Lecce
+2026-10-18,Football (soccer),Netherlands,Eredivisie,Cambuur,AZ Alkmaar,AZ Alkmaar,64.5,Draw
+2026-10-18,Football (soccer),Netherlands,Eredivisie,Groningen,Ajax,Ajax,44.9,Ajax
+2026-10-18,Football (soccer),Netherlands,Eredivisie,Nijmegen,For Sittard,Nijmegen,53.8,Draw
+2026-10-18,Football (soccer),Netherlands,Eredivisie,Twente,Utrecht,Twente,59.0,Utrecht
+2026-10-18,Football (soccer),Netherlands,Eredivisie,Zwolle,Go Ahead Eagles,Go Ahead Eagles,52.3,Zwolle
+2026-10-18,Football (soccer),Spain,La Liga,Celta Vigo,Alavés,Celta Vigo,44.0,Celta Vigo
+2026-10-18,Football (soccer),Spain,La Liga,Málaga,Real Sociedad,Real Sociedad,40.5,Real Sociedad
+2026-10-18,Football (soccer),Spain,La Liga,Osasuna,Racing Santander,Osasuna,60.9,Osasuna
+2026-10-18,Football (soccer),Spain,La Liga,Real Madrid,Sevilla,Real Madrid,74.3,Real Madrid
+2026-10-19,Football (soccer),England,Premier League,Tottenham,Coventry,Tottenham,59.1,Tottenham
+2026-10-19,Football (soccer),Italy,Serie A,Monza,Cagliari,Monza,37.9,Monza
+2026-10-19,Football (soccer),Italy,Serie A,Parma,Torino,Torino,38.3,Torino
+2026-10-19,Football (soccer),Portugal,Primeira Liga,Sp Braga,Gil Vicente,Sp Braga,51.6,Gil Vicente
+2026-10-19,Football (soccer),Spain,La Liga,Getafe,Rayo Vallecano,Getafe,36.2,Draw
+2026-10-20,Football (soccer),England,Championship,Wolves,Portsmouth,Wolves,38.0,Draw
+2026-10-21,Football (soccer),Spain,La Liga,Levante,Athletic Bilbao,Athletic Bilbao,45.7,Levante
+2026-10-23,Football (soccer),England,Championship,Bolton,Middlesbrough,Middlesbrough,41.1,Middlesbrough
+2026-10-23,Football (soccer),England,Premier League,Ipswich,Nottingham Forest,Nottingham Forest,36.8,Draw
+2026-10-23,Football (soccer),France,Ligue 1,Brest,Nice,Brest,42.3,Nice
+2026-10-23,Football (soccer),Germany,Bundesliga,Stuttgart,Borussia Mönchengladbach,Stuttgart,72.1,Borussia Mönchengladbach
+2026-10-23,Football (soccer),Italy,Serie A,Torino,Monza,Torino,47.5,Torino
+2026-10-23,Football (soccer),Netherlands,Eredivisie,Go Ahead Eagles,Telstar,Go Ahead Eagles,49.8,Go Ahead Eagles
+2026-10-23,Football (soccer),Portugal,Primeira Liga,Guimaraes,Maritimo,Guimaraes,48.0,Guimaraes
+2026-10-23,Football (soccer),Spain,La Liga,Alavés,Málaga,Alavés,58.5,Draw
+2026-10-24,Football (soccer),England,Championship,Blackburn,Wrexham,Wrexham,37.2,Blackburn
+2026-10-24,Football (soccer),England,Championship,Cardiff,Birmingham,Cardiff,47.6,Cardiff
+2026-10-24,Football (soccer),England,Championship,Charlton,Norwich,Charlton,40.7,Norwich
+2026-10-24,Football (soccer),England,Championship,Lincoln,Burnley,Lincoln,57.8,Lincoln
+2026-10-24,Football (soccer),England,Championship,Portsmouth,Millwall,Portsmouth,39.6,Portsmouth
+2026-10-24,Football (soccer),England,Championship,Preston,West Brom,West Brom,47.8,Draw
+2026-10-24,Football (soccer),England,Championship,QPR,Swansea,Swansea,37.5,QPR
+2026-10-24,Football (soccer),England,Championship,Sheffield United,Derby,Sheffield United,58.9,Draw
+2026-10-24,Football (soccer),England,Championship,Stoke,Bristol City,Stoke,44.4,Draw
+2026-10-24,Football (soccer),England,Championship,West Ham,Southampton,West Ham,45.9,Southampton
+2026-10-24,Football (soccer),England,Championship,Wolves,Watford,Wolves,54.4,Wolves
+2026-10-24,Football (soccer),England,Premier League,Arsenal,Everton,Arsenal,69.4,Arsenal
+2026-10-24,Football (soccer),England,Premier League,Aston Villa,Manchester City,Manchester City,59.1,Aston Villa
+2026-10-24,Football (soccer),England,Premier League,Chelsea,Tottenham,Chelsea,54.1,Tottenham
+2026-10-24,Football (soccer),England,Premier League,Coventry,Fulham,Fulham,42.4,Fulham
+2026-10-24,Football (soccer),France,Ligue 1,Lens,Paris FC,Lens,42.6,Lens
+2026-10-24,Football (soccer),Germany,Bundesliga,Augsburg,Union Berlin,Augsburg,56.4,Draw
+2026-10-24,Football (soccer),Germany,Bundesliga,Borussia Dortmund,Eintracht Frankfurt,Borussia Dortmund,66.8,Borussia Dortmund
+2026-10-24,Football (soccer),Germany,Bundesliga,1. FC Köln,Schalke 04,1. FC Köln,45.0,Draw
+2026-10-24,Football (soccer),Germany,Bundesliga,Mainz,Werder Bremen,Mainz,55.7,Werder Bremen
+2026-10-24,Football (soccer),Germany,Bundesliga,Paderborn,Hamburg,Paderborn,41.3,Paderborn
+2026-10-24,Football (soccer),Germany,Bundesliga,RB Leipzig,Elversberg,RB Leipzig,73.4,RB Leipzig
+2026-10-24,Football (soccer),Italy,Serie A,Cagliari,Bologna,Bologna,38.4,Bologna
+2026-10-24,Football (soccer),Italy,Serie A,Como,Sassuolo,Como,70.0,Como
+2026-10-24,Football (soccer),Italy,Serie A,Lazio,Parma,Lazio,63.8,Lazio
+2026-10-24,Football (soccer),Italy,Serie A,Napoli,Roma,Roma,37.4,Draw
+2026-10-24,Football (soccer),Netherlands,Eredivisie,Den Haag,Heerenveen,Heerenveen,50.0,Heerenveen
+2026-10-24,Football (soccer),Netherlands,Eredivisie,Utrecht,Zwolle,Utrecht,63.6,Draw
+2026-10-24,Football (soccer),Netherlands,Eredivisie,Willem II,Cambuur,Willem II,44.2,Cambuur
+2026-10-24,Football (soccer),Portugal,Primeira Liga,Alverca,Arouca,Alverca,38.2,Arouca
+2026-10-24,Football (soccer),Portugal,Primeira Liga,Estrela,Casa Pia,Estrela,53.7,Casa Pia
+2026-10-24,Football (soccer),Portugal,Primeira Liga,Gil Vicente,Porto,Porto,59.9,Porto
+2026-10-24,Football (soccer),Spain,La Liga,Atlético Madrid,Deportivo La Coruña,Atlético Madrid,73.8,Atlético Madrid
+2026-10-24,Football (soccer),Spain,La Liga,Racing Santander,Espanyol,Racing Santander,39.0,Racing Santander
+2026-10-24,Football (soccer),Spain,La Liga,Valencia,Villarreal,Villarreal,46.7,Villarreal
+2026-10-24,Football (soccer),Spain,La Liga,Rayo Vallecano,Elche,Rayo Vallecano,55.0,Elche
+2026-10-25,Football (soccer),England,Premier League,Crystal Palace,Newcastle,Newcastle,40.6,Newcastle
+2026-10-25,Football (soccer),England,Premier League,Hull,Brentford,Brentford,54.8,Draw
+2026-10-25,Football (soccer),England,Premier League,Liverpool,Brighton,Liverpool,43.4,Liverpool
+2026-10-25,Football (soccer),England,Premier League,Manchester United,Bournemouth,Manchester United,48.5,Bournemouth
+2026-10-25,Football (soccer),England,Premier League,Sunderland,Leeds,Leeds,38.8,Draw
+2026-10-25,Football (soccer),France,Ligue 1,Angers,Lorient,Lorient,40.2,Draw
+2026-10-25,Football (soccer),France,Ligue 1,Auxerre,Le Mans,Auxerre,42.7,Draw
+2026-10-25,Football (soccer),France,Ligue 1,Marseille,Le Havre,Marseille,63.1,Marseille
+2026-10-25,Football (soccer),France,Ligue 1,Monaco,Lille,Monaco,48.0,Draw
+2026-10-25,Football (soccer),France,Ligue 1,Rennes,Strasbourg,Rennes,56.3,Rennes
+2026-10-25,Football (soccer),France,Ligue 1,Toulouse,Troyes,Toulouse,60.1,Draw
+2026-10-25,Football (soccer),Germany,Bundesliga,Freiburg,Bayern Munich,Bayern Munich,68.4,Bayern Munich
+2026-10-25,Football (soccer),Germany,Bundesliga,Hoffenheim,Bayer Leverkusen,Bayer Leverkusen,44.1,Hoffenheim
+2026-10-25,Football (soccer),Italy,Serie A,Atalanta,Frosinone,Atalanta,58.3,Draw
+2026-10-25,Football (soccer),Italy,Serie A,Genoa,Venezia,Genoa,46.7,Genoa
+2026-10-25,Football (soccer),Italy,Serie A,Inter,Fiorentina,Inter,72.4,Inter
+2026-10-25,Football (soccer),Italy,Serie A,Lecce,Juventus,Juventus,67.2,Juventus
+2026-10-25,Football (soccer),Italy,Serie A,Udinese,Milan,Milan,60.4,Milan
+2026-10-25,Football (soccer),Netherlands,Eredivisie,AZ Alkmaar,Twente,AZ Alkmaar,48.8,Twente
+2026-10-25,Football (soccer),Netherlands,Eredivisie,For Sittard,Excelsior,For Sittard,51.5,For Sittard
+2026-10-25,Football (soccer),Netherlands,Eredivisie,Nijmegen,Groningen,Nijmegen,41.9,Draw
+2026-10-25,Football (soccer),Netherlands,Eredivisie,PSV Eindhoven,Feyenoord,PSV Eindhoven,48.2,Draw
+2026-10-25,Football (soccer),Netherlands,Eredivisie,Sparta Rotterdam,Ajax,Ajax,67.2,Ajax
+2026-10-25,Football (soccer),Portugal,Primeira Liga,Estoril,Moreirense,Estoril,45.5,Moreirense
+2026-10-25,Football (soccer),Portugal,Primeira Liga,Nacional,Sp Braga,Sp Braga,50.3,Nacional
+2026-10-25,Football (soccer),Portugal,Primeira Liga,Rio Ave,Famalicao,Famalicao,46.7,Famalicao
+2026-10-25,Football (soccer),Portugal,Primeira Liga,Sp Lisbon,Academico Viseu,Sp Lisbon,75.5,Academico Viseu
+2026-10-25,Football (soccer),Spain,La Liga,Athletic Bilbao,Getafe,Athletic Bilbao,54.7,Athletic Bilbao
+2026-10-25,Football (soccer),Spain,La Liga,Barcelona,Real Madrid,Barcelona,58.3,Real Madrid
+2026-10-25,Football (soccer),Spain,La Liga,Celta Vigo,Real Betis,Real Betis,36.1,Draw
+2026-10-25,Football (soccer),Spain,La Liga,Real Sociedad,Levante,Real Sociedad,56.9,Real Sociedad
+2026-10-26,Football (soccer),France,Ligue 1,Paris Saint-Germain,Lyon,Paris Saint-Germain,69.5,Paris Saint-Germain
+2026-10-26,Football (soccer),Portugal,Primeira Liga,Santa Clara,Benfica,Benfica,56.5,Benfica
+2026-10-26,Football (soccer),Spain,La Liga,Sevilla,Osasuna,Sevilla,51.9,Sevilla
+2026-10-27,Football (soccer),Italy,Serie A,Roma,Cagliari,Roma,71.9,Roma
+2026-10-27,Football (soccer),Italy,Serie A,Sassuolo,Lazio,Lazio,41.8,Lazio
+2026-10-27,Football (soccer),Italy,Serie A,Torino,Como,Como,54.7,Como
+2026-10-28,Football (soccer),Italy,Serie A,Genoa,Juventus,Juventus,54.4,Genoa
+2026-10-28,Football (soccer),Italy,Serie A,Milan,Bologna,Milan,59.1,Bologna
+2026-10-28,Football (soccer),Italy,Serie A,Monza,Napoli,Napoli,58.5,Napoli
+2026-10-28,Football (soccer),Italy,Serie A,Parma,Udinese,Udinese,37.1,Draw
+2026-10-28,Football (soccer),Italy,Serie A,Venezia,Inter,Inter,76.3,Inter
+2026-10-29,Football (soccer),Italy,Serie A,Fiorentina,Atalanta,Fiorentina,42.9,Draw
+2026-10-29,Football (soccer),Italy,Serie A,Frosinone,Lecce,Frosinone,56.6,Frosinone
+2026-10-30,Football (soccer),Brazil,Serie A,Corinthians,Mirassol,Corinthians,40.2,Corinthians
+2026-10-30,Football (soccer),England,Championship,Sheffield United,Wrexham,Sheffield United,42.8,Sheffield United
+2026-10-30,Football (soccer),France,Ligue 1,Le Havre,Paris Saint-Germain,Paris Saint-Germain,78.5,Paris Saint-Germain
+2026-10-30,Football (soccer),France,Ligue 1,Lille,Lens,Lille,38.0,Lille
+2026-10-30,Football (soccer),France,Ligue 1,Nice,Rennes,Rennes,38.5,Nice
+2026-10-30,Football (soccer),Germany,Bundesliga,Elversberg,Mainz,Mainz,44.0,Elversberg
+2026-10-30,Football (soccer),Portugal,Primeira Liga,Casa Pia,Sp Lisbon,Sp Lisbon,71.5,Sp Lisbon
+2026-10-30,Football (soccer),Spain,La Liga,Villarreal,Espanyol,Villarreal,63.2,Espanyol
+2026-10-31,Football (soccer),Argentina,Liga Profesional,Dep. Riestra,Talleres Cordoba,Draw,38.3,Talleres Cordoba
+2026-10-31,Football (soccer),Argentina,Liga Profesional,Velez Sarsfield,San Lorenzo,Velez Sarsfield,45.9,Draw
+2026-10-31,Football (soccer),Austria,Bundesliga,Altach,Ried,Ried,39.1,Draw
+2026-10-31,Football (soccer),Austria,Bundesliga,LASK,Tirol,LASK,67.1,LASK
+2026-10-31,Football (soccer),Belgium,Jupiler Pro League,Anderlecht,Westerlo,Anderlecht,45.1,Anderlecht
+2026-10-31,Football (soccer),Belgium,Jupiler Pro League,Beveren,St. Gilloise,St. Gilloise,70.2,St. Gilloise
+2026-10-31,Football (soccer),Belgium,Jupiler Pro League,Mechelen,Genk,Genk,49.0,Mechelen
+2026-10-31,Football (soccer),Belgium,Jupiler Pro League,Standard,Kortrijk,Standard,61.1,Draw
+2026-10-31,Football (soccer),Brazil,Serie A,Coritiba,Vitoria,Coritiba,38.1,Coritiba
+2026-10-31,Football (soccer),England,Championship,Bolton,Bristol City,Bolton,42.5,Bristol City
+2026-10-31,Football (soccer),England,Championship,Burnley,Portsmouth,Portsmouth,40.4,Draw
+2026-10-31,Football (soccer),England,Championship,Lincoln,Birmingham,Lincoln,38.8,Birmingham
+2026-10-31,Football (soccer),England,Championship,Middlesbrough,Charlton,Middlesbrough,73.0,Middlesbrough
+2026-10-31,Football (soccer),England,Championship,Millwall,Derby,Millwall,59.5,Millwall
+2026-10-31,Football (soccer),England,Championship,Norwich,Watford,Norwich,59.0,Norwich
+2026-10-31,Football (soccer),England,Championship,Southampton,QPR,Southampton,62.1,Southampton
+2026-10-31,Football (soccer),England,Championship,Stoke,Preston,Stoke,54.3,Stoke
+2026-10-31,Football (soccer),England,Championship,Swansea,Blackburn,Swansea,50.0,Swansea
+2026-10-31,Football (soccer),England,Championship,West Ham,West Brom,West Ham,56.5,West Brom
+2026-10-31,Football (soccer),England,Championship,Wolves,Cardiff,Cardiff,40.5,Wolves
+2026-10-31,Football (soccer),England,League One,Barnsley,Oxford,Oxford,40.2,Draw
+2026-10-31,Football (soccer),England,League One,Bradford,Huddersfield,Bradford,35.8,Huddersfield
+2026-10-31,Football (soccer),England,League One,Leicester,Stevenage,Leicester,42.0,Draw
+2026-10-31,Football (soccer),England,League One,Leyton Orient,Cambridge,Cambridge,37.4,Leyton Orient
+2026-10-31,Football (soccer),England,League One,Mansfield,Notts County,Mansfield,50.1,Notts County
+2026-10-31,Football (soccer),England,League One,Milton Keynes Dons,Doncaster,Milton Keynes Dons,47.7,Milton Keynes Dons
+2026-10-31,Football (soccer),England,League One,Peterborough,Luton,Luton,48.8,Luton
+2026-10-31,Football (soccer),England,League One,Plymouth,Reading,Reading,39.1,Draw
+2026-10-31,Football (soccer),England,League One,Stockport,AFC Wimbledon,Stockport,75.6,Stockport
+2026-10-31,Football (soccer),England,League One,Wigan,Bromley,Wigan,46.5,Wigan
+2026-10-31,Football (soccer),England,League One,Wycombe,Burton,Wycombe,49.8,Wycombe
+2026-10-31,Football (soccer),England,League Two,Accrington,Northampton,Accrington,49.0,Draw
+2026-10-31,Football (soccer),England,League Two,Colchester,Walsall,Colchester,36.8,Walsall
+2026-10-31,Football (soccer),England,League Two,Crewe,Barnet,Barnet,39.9,Draw
+2026-10-31,Football (soccer),England,League Two,Fleetwood Town,Bristol Rvs,Fleetwood Town,41.6,Fleetwood Town
+2026-10-31,Football (soccer),England,League Two,Grimsby,York,York,41.2,Grimsby
+2026-10-31,Football (soccer),England,League Two,Oldham,Crawley Town,Oldham,58.7,Crawley Town
+2026-10-31,Football (soccer),England,League Two,Port Vale,Rochdale,Port Vale,38.7,Port Vale
+2026-10-31,Football (soccer),England,League Two,Salford,Exeter,Salford,42.6,Salford
+2026-10-31,Football (soccer),England,League Two,Shrewsbury,Gillingham,Shrewsbury,42.2,Gillingham
+2026-10-31,Football (soccer),England,League Two,Swindon,Rotherham,Swindon,59.5,Swindon
+2026-10-31,Football (soccer),England,League Two,Tranmere,Cheltenham,Tranmere,42.6,Tranmere
+2026-10-31,Football (soccer),England,National League,Aldershot,Gateshead,Aldershot,52.7,Aldershot
+2026-10-31,Football (soccer),England,National League,Altrincham,Carlisle,Carlisle,44.4,Carlisle
+2026-10-31,Football (soccer),England,National League,Barrow,Eastleigh,Barrow,53.6,Draw
+2026-10-31,Football (soccer),England,National League,Boreham Wood,Hartlepool,Boreham Wood,72.1,Boreham Wood
+2026-10-31,Football (soccer),England,National League,Boston Utd,Scunthorpe,Boston Utd,41.6,Boston Utd
+2026-10-31,Football (soccer),England,National League,Forest Green,Harrogate,Forest Green,48.7,Draw
+2026-10-31,Football (soccer),England,National League,Halifax,Yeovil,Halifax,40.6,Halifax
+2026-10-31,Football (soccer),England,National League,Solihull,Kidderminster,Kidderminster,45.3,Solihull
+2026-10-31,Football (soccer),England,National League,Tamworth,Woking,Woking,39.8,Woking
+2026-10-31,Football (soccer),England,National League,Wealdstone,Southend,Southend,54.7,Wealdstone
+2026-10-31,Football (soccer),England,National League,Worthing,Sutton,Worthing,52.2,Sutton
+2026-10-31,Football (soccer),England,Premier League,Aston Villa,Fulham,Aston Villa,43.3,Draw
+2026-10-31,Football (soccer),England,Premier League,Bournemouth,Leeds,Bournemouth,46.3,Bournemouth
+2026-10-31,Football (soccer),England,Premier League,Brentford,Nottingham Forest,Brentford,47.3,Brentford
+2026-10-31,Football (soccer),England,Premier League,Chelsea,Manchester United,Chelsea,46.6,Chelsea
+2026-10-31,Football (soccer),England,Premier League,Coventry,Sunderland,Sunderland,41.6,Coventry
+2026-10-31,Football (soccer),England,Premier League,Hull,Ipswich,Ipswich,39.9,Draw
+2026-10-31,Football (soccer),England,Premier League,Manchester City,Brighton,Manchester City,58.1,Brighton
+2026-10-31,Football (soccer),England,Premier League,Tottenham,Crystal Palace,Tottenham,58.6,Tottenham
+2026-10-31,Football (soccer),France,Ligue 1,Troyes,Le Mans,Troyes,40.4,Troyes
+2026-10-31,Football (soccer),France,Ligue 2,Annecy,Montpellier,Annecy,34.6,Montpellier
+2026-10-31,Football (soccer),France,Ligue 2,Guingamp,Saint-Étienne,Saint-Étienne,47.8,Guingamp
+2026-10-31,Football (soccer),Germany,2. Bundesliga,Darmstadt,Magdeburg,Magdeburg,43.7,Draw
+2026-10-31,Football (soccer),Germany,2. Bundesliga,Kaiserslautern,Hertha BSC,Kaiserslautern,38.0,Hertha BSC
+2026-10-31,Football (soccer),Germany,2. Bundesliga,Karlsruhe,Heidenheim,Karlsruhe,38.6,Karlsruhe
+2026-10-31,Football (soccer),Germany,2. Bundesliga,Wolfsburg,Osnabrück,Wolfsburg,59.0,Wolfsburg
+2026-10-31,Football (soccer),Germany,Bundesliga,Augsburg,Freiburg,Freiburg,44.1,Freiburg
+2026-10-31,Football (soccer),Germany,Bundesliga,Bayern Munich,Borussia Dortmund,Bayern Munich,72.9,Draw
+2026-10-31,Football (soccer),Germany,Bundesliga,Bayer Leverkusen,Stuttgart,Bayer Leverkusen,55.2,Stuttgart
+2026-10-31,Football (soccer),Germany,Bundesliga,Borussia Mönchengladbach,Paderborn,Borussia Mönchengladbach,51.2,Draw
+2026-10-31,Football (soccer),Germany,Bundesliga,Schalke 04,RB Leipzig,RB Leipzig,48.8,RB Leipzig
+2026-10-31,Football (soccer),Germany,Bundesliga,Werder Bremen,Hoffenheim,Hoffenheim,40.2,Werder Bremen
+2026-10-31,Football (soccer),Greece,Super League,Kifisia,Olympiakos,Olympiakos,56.3,Olympiakos
+2026-10-31,Football (soccer),Italy,Serie A,Bologna,Monza,Bologna,55.4,Bologna
+2026-10-31,Football (soccer),Italy,Serie A,Milan,Inter,Inter,42.9,Milan
+2026-10-31,Football (soccer),Italy,Serie A,Udinese,Roma,Roma,61.1,Roma
+2026-10-31,Football (soccer),Italy,Serie B,Catanzaro,Padova,Catanzaro,37.3,Draw
+2026-10-31,Football (soccer),Italy,Serie B,Cremonese,Benevento,Benevento,33.5,Cremonese
+2026-10-31,Football (soccer),Italy,Serie B,Modena,Mantova,Modena,48.9,Draw
+2026-10-31,Football (soccer),Italy,Serie B,Sampdoria,Virtus Entella,Sampdoria,35.0,Sampdoria
+2026-10-31,Football (soccer),Italy,Serie B,Sudtirol,Cesena,Sudtirol,38.8,Draw
+2026-10-31,Football (soccer),Mexico,Liga MX,Pachuca,Tigres UANL,Pachuca,45.0,Pachuca
+2026-10-31,Football (soccer),Netherlands,Eredivisie,Ajax,AZ Alkmaar,Ajax,52.9,Ajax
+2026-10-31,Football (soccer),Netherlands,Eredivisie,Cambuur,Go Ahead Eagles,Cambuur,41.3,Cambuur
+2026-10-31,Football (soccer),Netherlands,Eredivisie,Feyenoord,For Sittard,Feyenoord,75.4,Draw
+2026-10-31,Football (soccer),Netherlands,Eredivisie,Heerenveen,Nijmegen,Heerenveen,51.0,Heerenveen
+2026-10-31,Football (soccer),Netherlands,Eredivisie,PSV Eindhoven,Willem II,PSV Eindhoven,88.3,PSV Eindhoven
+2026-10-31,Football (soccer),Norway,Eliteserien,Aalesund,Sandefjord,Aalesund,39.6,Sandefjord
+2026-10-31,Football (soccer),Norway,Eliteserien,Fredrikstad,Rosenborg,Rosenborg,53.2,Rosenborg
+2026-10-31,Football (soccer),Poland,Ekstraklasa,GKS Katowice,Widzew Lodz,GKS Katowice,42.3,GKS Katowice
+2026-10-31,Football (soccer),Poland,Ekstraklasa,Lech Poznan,Wisla,Lech Poznan,64.2,Lech Poznan
+2026-10-31,Football (soccer),Poland,Ekstraklasa,Wieczysta Krakow,Jagiellonia,Jagiellonia,42.5,Jagiellonia
+2026-10-31,Football (soccer),Poland,Ekstraklasa,Wisla Plock,Piast Gliwice,Piast Gliwice,44.2,Draw
+2026-10-31,Football (soccer),Portugal,Primeira Liga,Moreirense,Estrela,Moreirense,48.6,Moreirense
+2026-10-31,Football (soccer),Portugal,Primeira Liga,Porto,Estoril,Porto,83.3,Porto
+2026-10-31,Football (soccer),Romania,Superliga,Corvinul,FC Arges,Corvinul,34.1,Corvinul
+2026-10-31,Football (soccer),Romania,Superliga,Petrolul,CFR Cluj,CFR Cluj,36.3,Draw
+2026-10-31,Football (soccer),Scotland,Scottish Championship,Arbroath,Raith Rvs,Raith Rvs,44.1,Raith Rvs
+2026-10-31,Football (soccer),Scotland,Scottish Championship,Ayr,Queens Park,Ayr,48.6,Ayr
+2026-10-31,Football (soccer),Scotland,Scottish Championship,Dunfermline,Inverness C,Inverness C,34.7,Dunfermline
+2026-10-31,Football (soccer),Scotland,Scottish Championship,Partick,Morton,Partick,65.5,Morton
+2026-10-31,Football (soccer),Scotland,Scottish League One,Airdrie Utd,Cove Rangers,Airdrie Utd,43.2,Cove Rangers
+2026-10-31,Football (soccer),Scotland,Scottish League One,East Fife,Queen of Sth,East Fife,40.1,East Fife
+2026-10-31,Football (soccer),Scotland,Scottish League One,East Kilbride,Ross County,Ross County,52.8,Ross County
+2026-10-31,Football (soccer),Scotland,Scottish League One,Hamilton,Montrose,Hamilton,66.1,Draw
+2026-10-31,Football (soccer),Scotland,Scottish League One,Peterhead,Alloa,Alloa,44.0,Peterhead
+2026-10-31,Football (soccer),Scotland,Scottish League Two,Edinburgh City,Dumbarton,Edinburgh City,45.7,Edinburgh City
+2026-10-31,Football (soccer),Scotland,Scottish League Two,Kelty Hearts,Elgin,Elgin,49.4,Elgin
+2026-10-31,Football (soccer),Scotland,Scottish League Two,Spartans,Annan Athletic,Spartans,57.5,Spartans
+2026-10-31,Football (soccer),Scotland,Scottish League Two,Stirling,Forfar,Stirling,41.7,Stirling
+2026-10-31,Football (soccer),Scotland,Scottish League Two,Stranraer,Clyde,Stranraer,48.3,Draw
+2026-10-31,Football (soccer),Scotland,Scottish Premiership,Kilmarnock,St Johnstone,St Johnstone,44.8,Draw
+2026-10-31,Football (soccer),Scotland,Scottish Premiership,Motherwell,St Mirren,Motherwell,49.8,Motherwell
+2026-10-31,Football (soccer),Spain,La Liga,Barcelona,Alavés,Barcelona,85.6,Barcelona
+2026-10-31,Football (soccer),Spain,La Liga,Real Betis,Málaga,Real Betis,71.7,Real Betis
+2026-10-31,Football (soccer),Spain,La Liga,Levante,Atlético Madrid,Atlético Madrid,62.0,Atlético Madrid
+2026-10-31,Football (soccer),Spain,La Liga,Rayo Vallecano,Celta Vigo,Rayo Vallecano,40.9,Rayo Vallecano
+2026-10-31,Football (soccer),Spain,Segunda División,Albacete,Sabadell,Albacete,38.7,Albacete
+2026-10-31,Football (soccer),Spain,Segunda División,Celta Vigo B,Córdoba,Celta Vigo B,37.5,Draw
+2026-10-31,Football (soccer),Spain,Segunda División,Eibar,Almería,Eibar,44.9,Draw
+2026-10-31,Football (soccer),Spain,Segunda División,Real Sociedad B,Girona,Girona,54.1,Real Sociedad B
+2026-10-31,Football (soccer),Switzerland,Super League,Grasshoppers,Vaduz,Vaduz,42.1,Draw
+2026-10-31,Football (soccer),Switzerland,Super League,Luzern,Sion,Sion,45.2,Draw
+2026-10-31,Football (soccer),Switzerland,Super League,St. Gallen,Servette,St. Gallen,42.3,St. Gallen
+2026-10-31,Football (soccer),Turkey,Süper Lig,Erzurumspor,Corum,Erzurumspor,40.2,Corum
+2026-10-31,Football (soccer),Turkey,Süper Lig,Fenerbahce,Goztep,Fenerbahce,56.6,Goztep
+2026-10-31,Football (soccer),Turkey,Süper Lig,Kocaelispor,Rizespor,Kocaelispor,42.5,Draw
+2026-10-31,Football (soccer),USA,MLS,Charlotte,Orlando City,Charlotte,45.7,Charlotte
+2026-10-31,Football (soccer),USA,MLS,Columbus Crew,DC United,Columbus Crew,67.0,Columbus Crew
+2026-10-31,Football (soccer),USA,MLS,FC Cincinnati,Philadelphia Union,Philadelphia Union,49.5,FC Cincinnati
+2026-10-31,Football (soccer),USA,MLS,Los Angeles Galaxy,Austin FC,Los Angeles Galaxy,55.3,Los Angeles Galaxy
+2026-10-31,Football (soccer),USA,MLS,New York City,CF Montreal,New York City,65.9,Draw
+2026-10-31,Football (soccer),USA,MLS,San Jose Earthquakes,Real Salt Lake,San Jose Earthquakes,44.9,San Jose Earthquakes
+2026-10-31,Football (soccer),USA,MLS,Sporting Kansas City,FC Dallas,FC Dallas,55.5,Draw
+2026-10-31,Football (soccer),USA,MLS,St. Louis City,San Diego FC,St. Louis City,57.3,San Diego FC
+2026-11-01,Football (soccer),Argentina,Liga Profesional,Belgrano,Barracas Central,Belgrano,40.5,Draw
+2026-11-01,Football (soccer),Argentina,Liga Profesional,Boca Juniors,River Plate,Boca Juniors,48.5,Boca Juniors
+2026-11-01,Football (soccer),Argentina,Liga Profesional,Estudiantes L.P.,Instituto,Estudiantes L.P.,41.7,Draw
+2026-11-01,Football (soccer),Argentina,Liga Profesional,Lanus,Gimnasia Mendoza,Lanus,47.8,Draw
+2026-11-01,Football (soccer),Argentina,Liga Profesional,Newells Old Boys,Union de Santa Fe,Newells Old Boys,43.0,Draw
+2026-11-01,Football (soccer),Austria,Bundesliga,Austria Vienna,SK Rapid,SK Rapid,54.5,SK Rapid
+2026-11-01,Football (soccer),Austria,Bundesliga,Salzburg,A. Lustenau,Salzburg,82.6,Salzburg
+2026-11-01,Football (soccer),Austria,Bundesliga,Wolfsberger AC,Sturm Graz,Sturm Graz,52.5,Draw
+2026-11-01,Football (soccer),Belgium,Jupiler Pro League,Cercle Brugge,Antwerp,Cercle Brugge,38.7,Cercle Brugge
+2026-11-01,Football (soccer),Belgium,Jupiler Pro League,Charleroi,RAAL La Louviere,Charleroi,61.8,Charleroi
+2026-11-01,Football (soccer),Belgium,Jupiler Pro League,Lommel SK,Gent,Gent,48.4,Lommel SK
+2026-11-01,Football (soccer),Belgium,Jupiler Pro League,St Truiden,Oud-Heverlee Leuven,St Truiden,58.0,Oud-Heverlee Leuven
+2026-11-01,Football (soccer),Denmark,Superliga,Brondby,Aarhus,Brondby,41.1,Brondby
+2026-11-01,Football (soccer),Denmark,Superliga,Nordsjaelland,Midtjylland,Midtjylland,42.4,Midtjylland
+2026-11-01,Football (soccer),Denmark,Superliga,Odense,Silkeborg,Odense,46.8,Odense
+2026-11-01,Football (soccer),Denmark,Superliga,Viborg,Horsens,Viborg,56.4,Viborg
+2026-11-01,Football (soccer),England,League One,Sheffield Wednesday,Blackpool,Sheffield Wednesday,41.5,Draw
+2026-11-01,Football (soccer),England,Premier League,Liverpool,Arsenal,Arsenal,44.1,Arsenal
+2026-11-01,Football (soccer),Finland,Veikkausliiga,AC Oulu,KuPS,KuPS,48.6,AC Oulu
+2026-11-01,Football (soccer),France,Ligue 1,Lyon,Angers,Lyon,69.4,Lyon
+2026-11-01,Football (soccer),France,Ligue 1,Marseille,Toulouse,Marseille,47.4,Marseille
+2026-11-01,Football (soccer),France,Ligue 1,Paris FC,Monaco,Paris FC,39.0,Paris FC
+2026-11-01,Football (soccer),France,Ligue 1,Strasbourg,Auxerre,Strasbourg,53.4,Strasbourg
+2026-11-01,Football (soccer),Germany,2. Bundesliga,Greuther Fürth,Holstein Kiel,Greuther Fürth,41.8,Greuther Fürth
+2026-11-01,Football (soccer),Germany,2. Bundesliga,Hannover,Dresden,Hannover,49.9,Hannover
+2026-11-01,Football (soccer),Germany,2. Bundesliga,St. Pauli,Nürnberg,Nürnberg,39.1,Nürnberg
+2026-11-01,Football (soccer),Germany,Bundesliga,Eintracht Frankfurt,Hamburg,Eintracht Frankfurt,58.5,Eintracht Frankfurt
+2026-11-01,Football (soccer),Germany,Bundesliga,Union Berlin,1. FC Köln,1. FC Köln,37.3,Draw
+2026-11-01,Football (soccer),Greece,Super League,Levadeiakos,Aris,Aris,39.8,Levadeiakos
+2026-11-01,Football (soccer),Greece,Super League,PAOK,Asteras Tripolis,PAOK,71.5,PAOK
+2026-11-01,Football (soccer),Greece,Super League,Panathinaikos,AEK,AEK,35.3,Panathinaikos
+2026-11-01,Football (soccer),Greece,Super League,Panetolikos,OFI Crete,Panetolikos,36.1,OFI Crete
+2026-11-01,Football (soccer),Italy,Serie A,Como,Venezia,Como,73.4,Como
+2026-11-01,Football (soccer),Italy,Serie A,Frosinone,Torino,Frosinone,46.0,Frosinone
+2026-11-01,Football (soccer),Italy,Serie A,Juventus,Napoli,Juventus,45.0,Juventus
+2026-11-01,Football (soccer),Italy,Serie A,Lazio,Cagliari,Lazio,61.7,Lazio
+2026-11-01,Football (soccer),Italy,Serie A,Lecce,Genoa,Genoa,38.2,Genoa
+2026-11-01,Football (soccer),Italy,Serie B,Arezzo,Ascoli,Ascoli,42.6,Draw
+2026-11-01,Football (soccer),Italy,Serie B,Avellino,Pisa,Avellino,49.4,Avellino
+2026-11-01,Football (soccer),Italy,Serie B,Empoli,Juve Stabia,Empoli,37.3,Draw
+2026-11-01,Football (soccer),Italy,Serie B,Palermo,Vicenza,Palermo,63.9,Palermo
+2026-11-01,Football (soccer),Italy,Serie B,Verona,Carrarese,Verona,41.4,Verona
+2026-11-01,Football (soccer),Japan,J1 League,Chiba,Avispa Fukuoka,Avispa Fukuoka,36.2,Chiba
+2026-11-01,Football (soccer),Japan,J1 League,Machida,Gamba Osaka,Machida,62.4,Draw
+2026-11-01,Football (soccer),Japan,J1 League,V-Varen Nagasaki,Verdy,V-Varen Nagasaki,43.8,Verdy
+2026-11-01,Football (soccer),Japan,J1 League,Yokohama F. Marinos,Kawasaki Frontale,Yokohama F. Marinos,40.9,Yokohama F. Marinos
+2026-11-01,Football (soccer),Mexico,Liga MX,Club America,Toluca,Club America,48.3,Draw
+2026-11-01,Football (soccer),Mexico,Liga MX,Guadalajara Chivas,Atlante,Guadalajara Chivas,62.0,Guadalajara Chivas
+2026-11-01,Football (soccer),Mexico,Liga MX,Monterrey,Club Tijuana,Monterrey,42.0,Draw
+2026-11-01,Football (soccer),Mexico,Liga MX,Santos Laguna,Necaxa,Santos Laguna,52.5,Santos Laguna
+2026-11-01,Football (soccer),Netherlands,Eredivisie,Excelsior,Twente,Twente,50.6,Twente
+2026-11-01,Football (soccer),Netherlands,Eredivisie,Groningen,Sparta Rotterdam,Groningen,60.1,Sparta Rotterdam
+2026-11-01,Football (soccer),Netherlands,Eredivisie,Telstar,Utrecht,Utrecht,44.8,Telstar
+2026-11-01,Football (soccer),Netherlands,Eredivisie,Zwolle,Den Haag,Zwolle,44.0,Zwolle
+2026-11-01,Football (soccer),Norway,Eliteserien,Brann,Molde,Molde,50.6,Brann
+2026-11-01,Football (soccer),Norway,Eliteserien,KFUM Oslo,HamKam,KFUM Oslo,50.8,Draw
+2026-11-01,Football (soccer),Norway,Eliteserien,Sarpsborg 08,Kristiansund,Sarpsborg 08,56.6,Kristiansund
+2026-11-01,Football (soccer),Norway,Eliteserien,Start,Lillestrom,Lillestrom,47.6,Lillestrom
+2026-11-01,Football (soccer),Norway,Eliteserien,Valerenga,Tromso,Valerenga,40.5,Valerenga
+2026-11-01,Football (soccer),Portugal,Primeira Liga,Academico Viseu,Rio Ave,Academico Viseu,60.4,Academico Viseu
+2026-11-01,Football (soccer),Portugal,Primeira Liga,Arouca,Nacional,Arouca,60.6,Arouca
+2026-11-01,Football (soccer),Portugal,Primeira Liga,Maritimo,Santa Clara,Santa Clara,39.8,Santa Clara
+2026-11-01,Football (soccer),Portugal,Primeira Liga,Sp Braga,Famalicao,Sp Braga,42.2,Sp Braga
+2026-11-01,Football (soccer),Romania,Superliga,Dinamo Bucuresti,UTA Arad,Dinamo Bucuresti,49.4,Dinamo Bucuresti
+2026-11-01,Football (soccer),Romania,Superliga,Otelul,Sepsi Sf. Gheorghe,Otelul,41.8,Draw
+2026-11-01,Football (soccer),Romania,Superliga,Univ. Craiova,FC Botosani,Univ. Craiova,69.6,Univ. Craiova
+2026-11-01,Football (soccer),Scotland,Scottish Premiership,Falkirk,Celtic,Celtic,56.6,Falkirk
+2026-11-01,Football (soccer),Spain,La Liga,Athletic Bilbao,Real Sociedad,Athletic Bilbao,51.4,Athletic Bilbao
+2026-11-01,Football (soccer),Spain,La Liga,Elche,Valencia,Elche,43.5,Valencia
+2026-11-01,Football (soccer),Spain,La Liga,Getafe,Sevilla,Sevilla,37.8,Getafe
+2026-11-01,Football (soccer),Spain,La Liga,Racing Santander,Real Madrid,Real Madrid,77.8,Real Madrid
+2026-11-01,Football (soccer),Spain,Segunda División,Burgos,Castellón,Castellón,40.4,Draw
+2026-11-01,Football (soccer),Spain,Segunda División,Ceuta,Sporting Gijón,Sporting Gijón,41.1,Sporting Gijón
+2026-11-01,Football (soccer),Spain,Segunda División,Eldense,Granada,Granada,34.9,Granada
+2026-11-01,Football (soccer),Sweden,Allsvenskan,Djurgarden,Degerfors,Djurgarden,77.4,Djurgarden
+2026-11-01,Football (soccer),Sweden,Allsvenskan,Elfsborg,Orgryte,Elfsborg,63.7,Elfsborg
+2026-11-01,Football (soccer),Sweden,Allsvenskan,Hacken,Goteborg,Hacken,49.2,Hacken
+2026-11-01,Football (soccer),Sweden,Allsvenskan,Malmo FF,Hammarby,Hammarby,40.8,Hammarby
+2026-11-01,Football (soccer),Sweden,Allsvenskan,Vasteras SK,Brommapojkarna,Vasteras SK,43.6,Vasteras SK
+2026-11-01,Football (soccer),Switzerland,Super League,Lausanne,Thun,Thun,44.4,Thun
+2026-11-01,Football (soccer),Switzerland,Super League,Lugano,Basel,Lugano,71.4,Lugano
+2026-11-01,Football (soccer),Switzerland,Super League,Young Boys,Zurich,Young Boys,69.1,Zurich
+2026-11-01,Football (soccer),Turkey,Süper Lig,Amedspor,Eyupspor,Amedspor,70.5,Amedspor
+2026-11-01,Football (soccer),Turkey,Süper Lig,Buyuksehyr,Samsunspor,Buyuksehyr,65.5,Buyuksehyr
+2026-11-01,Football (soccer),Turkey,Süper Lig,Kasimpasa,Besiktas,Besiktas,44.3,Draw
+2026-11-01,Football (soccer),Turkey,Süper Lig,Trabzonspor,Gaziantep,Trabzonspor,79.7,Trabzonspor
+2026-11-01,Football (soccer),USA,MLS,Atlanta Utd,Toronto FC,Atlanta Utd,38.8,Atlanta Utd
+2026-11-01,Football (soccer),USA,MLS,Colorado Rapids,Chicago Fire,Colorado Rapids,40.3,Chicago Fire
+2026-11-01,Football (soccer),USA,MLS,Nashville SC,New York Red Bulls,Nashville SC,68.1,Nashville SC
+2026-11-01,Football (soccer),USA,MLS,Vancouver Whitecaps,Seattle Sounders,Vancouver Whitecaps,53.4,Vancouver Whitecaps
+2026-11-02,Football (soccer),Argentina,Liga Profesional,Defensa y Justicia,Independiente,Defensa y Justicia,38.7,Draw
+2026-11-02,Football (soccer),Argentina,Liga Profesional,Platense,Central Cordoba,Platense,45.4,Platense
+2026-11-02,Football (soccer),Brazil,Serie A,Bragantino,Santos,Bragantino,38.8,Bragantino
+2026-11-02,Football (soccer),Denmark,Superliga,Sonderjyske,FC Copenhagen,FC Copenhagen,64.9,FC Copenhagen
+2026-11-02,Football (soccer),England,Premier League,Newcastle,Everton,Newcastle,38.7,Everton
+2026-11-02,Football (soccer),Finland,Veikkausliiga,Inter Turku,Gnistan,Inter Turku,51.3,Inter Turku
+2026-11-02,Football (soccer),Finland,Veikkausliiga,VPS,HJK,HJK,49.7,HJK
+2026-11-02,Football (soccer),France,Ligue 1,Lorient,Brest,Lorient,36.2,Brest
+2026-11-02,Football (soccer),France,Ligue 2,Red Star,Nancy,Red Star,44.1,Nancy
+2026-11-02,Football (soccer),France,Ligue 2,Reims,Sochaux,Reims,55.7,Reims
+2026-11-02,Football (soccer),Greece,Super League,Atromitos,Volos NFC,Atromitos,57.5,Atromitos
+2026-11-02,Football (soccer),Greece,Super League,Kalamata,Iraklis,Kalamata,38.2,Draw
+2026-11-02,Football (soccer),Italy,Serie A,Atalanta,Parma,Atalanta,65.5,Parma
+2026-11-02,Football (soccer),Italy,Serie A,Sassuolo,Fiorentina,Fiorentina,43.6,Fiorentina
+2026-11-02,Football (soccer),Mexico,Liga MX,Cruz Azul,Club Leon,Cruz Azul,64.8,Cruz Azul
+2026-11-02,Football (soccer),Poland,Ekstraklasa,Radomiak Radom,Slask Wroclaw,Slask Wroclaw,37.0,Radomiak Radom
+2026-11-02,Football (soccer),Poland,Ekstraklasa,Rakow,Pogon Szczecin,Pogon Szczecin,41.7,Rakow
+2026-11-02,Football (soccer),Poland,Ekstraklasa,Zaglebie,Korona Kielce,Zaglebie,44.3,Zaglebie
+2026-11-02,Football (soccer),Portugal,Primeira Liga,Benfica,Alverca,Benfica,79.1,Benfica
+2026-11-02,Football (soccer),Portugal,Primeira Liga,Gil Vicente,Guimaraes,Gil Vicente,40.5,Draw
+2026-11-02,Football (soccer),Romania,Superliga,FC Voluntari,Farul Constanta,Farul Constanta,42.1,Farul Constanta
+2026-11-02,Football (soccer),Romania,Superliga,U. Cluj,FCSB,U. Cluj,44.7,U. Cluj
+2026-11-02,Football (soccer),Spain,La Liga,Deportivo La Coruña,Osasuna,Deportivo La Coruña,44.8,Deportivo La Coruña
+2026-11-02,Football (soccer),Spain,Segunda División,Mallorca,Cádiz,Mallorca,59.5,Mallorca
+2026-11-02,Football (soccer),Spain,Segunda División,Real Oviedo,Las Palmas,Real Oviedo,41.4,Las Palmas
+2026-11-02,Football (soccer),Spain,Segunda División,Valladolid,Leganés,Valladolid,49.0,Valladolid
+2026-11-02,Football (soccer),Sweden,Allsvenskan,GAIS,AIK,GAIS,39.0,GAIS
+2026-11-02,Football (soccer),Sweden,Allsvenskan,Mjallby,Kalmar,Mjallby,50.5,Draw
+2026-11-02,Football (soccer),Turkey,Süper Lig,Genclerbirligi,Alanyaspor,Genclerbirligi,36.9,Genclerbirligi
+2026-11-02,Football (soccer),USA,MLS,Los Angeles FC,Minnesota United,Los Angeles FC,55.2,Minnesota United
+2026-11-02,Football (soccer),USA,MLS,New England Revolution,Inter Miami,New England Revolution,41.3,Inter Miami
+2026-11-02,Football (soccer),USA,MLS,Portland Timbers,Houston Dynamo,Portland Timbers,41.8,Portland Timbers
+2026-11-03,Football (soccer),Argentina,Liga Profesional,Atl. Tucuman,Argentinos Jrs,Argentinos Jrs,37.4,Argentinos Jrs
+2026-11-03,Football (soccer),Argentina,Liga Profesional,Ind. Rivadavia,Banfield,Ind. Rivadavia,45.3,Ind. Rivadavia
+2026-11-03,Football (soccer),England,Championship,Birmingham,Millwall,Birmingham,46.7,Birmingham
+2026-11-03,Football (soccer),England,Championship,Blackburn,Stoke,Blackburn,40.3,Stoke
+2026-11-03,Football (soccer),England,Championship,Charlton,Bolton,Bolton,38.4,Bolton
+2026-11-03,Football (soccer),England,Championship,Derby,Norwich,Norwich,39.8,Norwich
+2026-11-03,Football (soccer),England,Championship,Portsmouth,Swansea,Portsmouth,39.3,Portsmouth
+2026-11-03,Football (soccer),England,Championship,Preston,Sheffield United,Sheffield United,50.9,Sheffield United
+2026-11-03,Football (soccer),England,Championship,QPR,Burnley,QPR,52.8,Draw
+2026-11-03,Football (soccer),England,Championship,Watford,Lincoln,Lincoln,50.0,Watford
+2026-11-03,Football (soccer),England,Championship,West Brom,Southampton,Southampton,44.1,Draw
+2026-11-03,Football (soccer),Europe,UEFA Champions League,Atlético Madrid,Bayern Munich,Bayern Munich,75.0,Bayern Munich
+2026-11-03,Football (soccer),Europe,UEFA Champions League,Barcelona,Aston Villa,Barcelona,62.3,Barcelona
+2026-11-03,Football (soccer),Europe,UEFA Champions League,Bodo/Glimt,Lille,Bodo/Glimt,48.0,Draw
+2026-11-03,Football (soccer),Europe,UEFA Champions League,Feyenoord Rotterdam,Internazionale,Feyenoord Rotterdam,57.9,Internazionale
+2026-11-03,Football (soccer),Europe,UEFA Champions League,Galatasaray,VfB Stuttgart,Galatasaray,51.8,Galatasaray
+2026-11-03,Football (soccer),Europe,UEFA Champions League,LASK Linz,Slovan Bratislava,LASK Linz,62.4,LASK Linz
+2026-11-03,Football (soccer),Europe,UEFA Champions League,Manchester United,AS Roma,Manchester United,54.3,Manchester United
+2026-11-03,Football (soccer),Europe,UEFA Champions League,Shakhtar Donetsk,Sporting CP,Sporting CP,53.7,Sporting CP
+2026-11-03,Football (soccer),Europe,UEFA Champions League,Villarreal,Paris Saint-Germain,Paris Saint-Germain,61.5,Paris Saint-Germain
+2026-11-03,Football (soccer),Sweden,Allsvenskan,Sirius,Halmstad,Sirius,71.5,Sirius
